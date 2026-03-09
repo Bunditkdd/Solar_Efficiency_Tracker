@@ -241,7 +241,7 @@ void ReadFlowSensor() {
     DEBUG_PRINTLN(FS300A_data.totalLiters);
 }
 
-void ReadPressureSGensor() {
+void ReadPressureSensor() {
     int rawValue = analogRead(A0);
     float voltage = (rawValue * 5.0) / 1023.0;
     float bar = (voltage - 0.5) * 12.0 / (4.5 - 0.5);
