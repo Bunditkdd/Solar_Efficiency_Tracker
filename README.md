@@ -40,5 +40,5 @@
 4. ข้อมูลจะเริ่มบันทึกลงใน SD Card ตามช่วงเวลาที่กำหนด
 
 ---
-**พัฒนาโดย:** [Bunditkdd](https://github.com/Bunditkdd) (Poy)
+**พัฒนาโดย:** 
 *Engineering Student | Specialized in Electrical Design & Power Systems*
